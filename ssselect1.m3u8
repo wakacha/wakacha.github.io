@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8100000
-http://source.strictv.com:80/play/live.ts?mac=00:1a:79:11:22:31&stream=1114583&extension=ts&play_token=9sVyHjbjBn
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1114583&extension=m3u8
