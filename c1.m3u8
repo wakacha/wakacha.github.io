@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993
-http://43.175.46.76/play.cbalive.weibisai.com/live/3512541377107061_AiSD.m3u8?txSecret=28415f31d4695125372094fe65cd152e&txTime=65E314C0
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_020324/master.m3u8
