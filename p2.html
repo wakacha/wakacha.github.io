@@ -516,7 +516,7 @@ const ui = new shaka.ui.Overlay(player, container, video);
         video.autoplay = true;
         video.controls = false;
         video.volume = 1;
-        video.muted = false;
+        video.muted = true;
         video.preload = 'auto';
 
         console.log(`Loading stream: ${channelstreamInfo.streamUrl}`);
