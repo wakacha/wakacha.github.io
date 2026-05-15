@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1778845237
+#EXTINF:10.000000,
+https://cdn.inteltelevision.com/4987/eltasport3_twn/115648_1778845237.ts
+#EXTINF:10.000000,
+https://cdn.inteltelevision.com/4987/eltasport3_twn/115659_1778845238.ts
+#EXTINF:10.000000,
+https://cdn.inteltelevision.com/4987/eltasport3_twn/115701_1778845239.ts
+#EXTINF:10.000000,
+https://cdn.inteltelevision.com/4987/eltasport3_twn/115711_1778845240.ts
+#EXTINF:10.000000,
+https://cdn.inteltelevision.com/4987/eltasport3_twn/115720_1778845241.ts
